@@ -1,0 +1,27 @@
+{
+  "name": "Reactjs_workshop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "react-dom.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.2.0",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "webpack": "^1.12.3"
+  },
+  "dependencies": {
+    "flux": "^2.1.1",
+    "lodash": "^3.10.1",
+    "object-assign": "^4.0.1",
+    "react": "^0.14.3",
+    "react-dom": "^0.14.3",
+    "react-router": "^0.13.5"
+  }
+}
